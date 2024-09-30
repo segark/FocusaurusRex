@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FocusarausRex</string>
+    <string name="alerts">Alerts</string>
+    <string name="analytics">Analytics</string>
+    <string name="invoicing">Invoicing</string>
+    <string name="back_to_main">Back To Main</string>
+    <string name="timeline">Timeline</string>
+    <string name="timesheet">TimeSheet</string>
+    <string name="timer">Timer</string>
 </resources>
